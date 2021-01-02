@@ -15,6 +15,8 @@ author_staff_member: YURI
 * 경쟁적인 PVP게임에 아닌, 협동이 강조된 실시간 모바일 게임
 * 멀티를 통해 단시간 즐길 수 있는 협력형 헌팅 게임 제작
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T2J97d4W9NQ" frameborder="0" allowfullscreen></iframe>
+
 
 ## Point
 
