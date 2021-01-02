@@ -54,8 +54,10 @@ author_staff_member: YURI
 # ![Checkmate](/images/posts/20210102/image18.gif){: width="80%" height="80%"}
 
 ### 6. 액션 RPG 베이스 전투
-    - 스탯(공격, 공속, 방어, 크리티컬, HP)기반 버프/디버프를 통한 전투
-    - 유틸리티,  CC기(스턴, 도트, 폭발, 워프, 쉴드, 분신, 흡혈, 장판, 함정, 광역화 등)
+    - 스탯(공격, 공속, 방어, 크리티컬, HP)기반
+      버프/디버프를 통한 전투
+    - 유틸리티,  CC기(스턴, 도트, 폭발, 워프,
+      쉴드, 분신, 흡혈, 장판, 함정, 광역화 등)
 
 # ![Checkmate](/images/posts/20210102/image44.gif){: width="80%" height="5800%"}
 
