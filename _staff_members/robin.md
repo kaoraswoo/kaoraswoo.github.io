@@ -1,7 +1,7 @@
 ---
-name: Robin Herrera
+name: YURI BAN
 position: CEO
-image_path: https://source.unsplash.com/collection/139386/604x604?a=.png
-twitter_username: CloudCannon
-blurb: Robin is often found tending to her majestic vegetable garden.
+image_path: https://kaoraswoo.github.io/siteicon.png?a=.png
+twitter_username: halfglass
+blurb: 이것듀라!!!
 ---
