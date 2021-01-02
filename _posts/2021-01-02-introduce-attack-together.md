@@ -61,4 +61,4 @@ author_staff_member: YURI
 
 # ![Checkmate](/images/posts/20210102/image44.gif){: width="80%" height="5800%"}
 
-지금 다운하세요
+지금 다운로드하세요
