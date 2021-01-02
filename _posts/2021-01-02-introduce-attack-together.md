@@ -61,21 +61,4 @@ author_staff_member: YURI
 
 # ![Checkmate](/images/posts/20210102/image44.gif){: width="80%" height="5800%"}
 
-
-## Play
-
-# ![Checkmate](/images/posts/20210102/image12.gif){: width="40%" height="40%"} ![Checkmate](/images/posts/20210102/image15.gif){: width="40%" height="40%"}
-# ![Checkmate](/images/posts/20210102/image14.gif){: width="40%" height="40%"} ![Checkmate](/images/posts/20210102/image11.png){: width="40%" height="40%"}
-
-
-## Weapons
-### 불속성
-# ![Checkmate](/images/posts/20210102/image42.gif){: width="40%" height="40%"} ![Checkmate](/images/posts/20210102/image24.gif){: width="40%" height="40%"}
-
-### 물속성
-# ![Checkmate](/images/posts/20210102/image40.gif){: width="40%" height="40%"} ![Checkmate](/images/posts/20210102/image19.gif){: width="40%" height="40%"}
-
-### 어둠속성
-# ![Checkmate](/images/posts/20210102/image17.gif){: width="40%" height="40%"} ![Checkmate](/images/posts/20210102/image13.gif){: width="40%" height="40%"}
-
 지금 다운하세요
