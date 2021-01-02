@@ -22,14 +22,14 @@ author_staff_member: YURI
 
 ### 1. 온라인 실시간 매칭 
 
-  - 스테이지별 최대 4명의 멀티플레이
-  - RPG식 역할 분담 
+    - 스테이지별 최대 4명의 멀티플레이
+    - RPG식 역할 분담 
 
 # ![Checkmate](/images/posts/20210102/image15.gif){: width="80%" height="80%"}
 
 ### 2. 개성있는 패턴의 보스 사냥 
-  - 속성별 다양한 스킬을 보유한 보스
-  - 패턴파악과 공략의 필요성 
+    - 속성별 다양한 스킬을 보유한 보스
+    - 패턴파악과 공략의 필요성 
 
 # ![Checkmate](/images/posts/20210102/image6.gif){: width="80%" height="80%"}
 
