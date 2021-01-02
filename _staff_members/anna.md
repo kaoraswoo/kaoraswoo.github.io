@@ -1,7 +1,7 @@
 ---
-name: Anna Thompson
-position: Marketing
-image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
-twitter_username: CloudCannon
-blurb: Anna likes long walks on the beach and buffet breakfast.
+name: YURI
+position: CEO
+image_path: ../images/staff/yuri.jpg
+twitter_username: 
+blurb: 쇼파의 요정입니다
 ---

@@ -1,7 +1,7 @@
 ---
-name: Betty Jefferson
+name: JEHYUN
 position: Developer
-image_path: https://source.unsplash.com/collection/139386/601x601?a=.png
-twitter_username: CloudCannon
+image_path: ../images/staff/jehyun.png?a=.png
+twitter_username: 
 blurb: Betty is a bookworm who will typically have four books on the go.
 ---
