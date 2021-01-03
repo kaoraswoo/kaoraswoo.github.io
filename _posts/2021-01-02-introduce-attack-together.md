@@ -8,6 +8,11 @@ image: /images/posts/posthead.jpg
 author_staff_member: YURI
 ---
 
+## 어택 투게더를 소개합니다
+
+[![Foo](/images/home/appstorebadge.png)](https://apps.apple.com/us/app/어택-투게더/id1546860274)
+[![Foo](/images/home/googleplaybadge.png)](https://play.google.com/store/apps/details?id=com.wearecute.attack)
+
 ## Introduce
 
 * 플랫폼 : 모바일(Android / IOS)
@@ -62,3 +67,7 @@ author_staff_member: YURI
 # ![Checkmate](/images/posts/20210102/image44.gif){: width="80%" height="5800%"}
 
 지금 다운로드하세요
+
+
+[![Foo](/images/home/appstorebadge.png)](https://apps.apple.com/us/app/어택-투게더/id1546860274)
+[![Foo](/images/home/googleplaybadge.png)](https://play.google.com/store/apps/details?id=com.wearecute.attack)
