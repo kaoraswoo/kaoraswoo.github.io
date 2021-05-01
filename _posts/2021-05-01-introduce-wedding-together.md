@@ -31,7 +31,7 @@ author_staff_member: YURI
 * "하트"로 여러 고마운 친구들을 고용해서, 돈을 법니다
 * 이제 모든 살림살이를 마련해서 우리의 결혼을 도와주세요!
 
-# ![Checkmate](/images/posts/20210501/game02.jpg){: width="50%" height="50%"}
+# ![Checkmate](/images/posts/20210501/game02.jpg){: width="80%" height="80%"}
 
 지금 다운로드하세요
 
